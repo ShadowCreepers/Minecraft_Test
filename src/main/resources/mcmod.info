@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obsidian",
+  "name": "obsidian",
+  "description": "Test.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ShadowMods"],
+  "credits": "Test",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
